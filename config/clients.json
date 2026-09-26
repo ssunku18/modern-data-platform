@@ -1,0 +1,25 @@
+{
+  "clients": [
+    {
+      "client_code": "ACME_HEALTH",
+      "client_name": "Acme Health",
+      "file_type": "ELIGIBILITY",
+      "frequency": "DAILY",
+      "expected_time": "08:00"
+    },
+    {
+      "client_code": "NOVA_HEALTH",
+      "client_name": "Nova Health",
+      "file_type": "ELIGIBILITY",
+      "frequency": "DAILY",
+      "expected_time": "09:30"
+    },
+    {
+      "client_code": "UNITY_CARE",
+      "client_name": "Unity Care",
+      "file_type": "ELIGIBILITY",
+      "frequency": "WEEKDAYS",
+      "expected_time": "11:00"
+    }
+  ]
+}

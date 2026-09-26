@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data
+data/generated/*
+data/raw/*
+
+# Databricks
+.databricks/
+
+# VS Code
+.vscode/
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

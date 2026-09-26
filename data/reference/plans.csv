@@ -1,0 +1,6 @@
+plan_id,plan_name,coverage_type,is_active
+PLAN001,Essential PPO,MEDICAL,Y
+PLAN002,Premier HMO,MEDICAL,Y
+PLAN003,Smile Plus,DENTAL,Y
+PLAN004,Clear Vision,VISION,Y
+PLAN005,Hearing Advantage,HEARING,Y
